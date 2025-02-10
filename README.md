@@ -1,3 +1,4 @@
 # AI-Programming-Journal
 
-记录学习
+个人学习记录
+
