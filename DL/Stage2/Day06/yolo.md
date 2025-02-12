@@ -21,6 +21,8 @@ YOLO模型有多个版本，包括YOLOv1、YOLOv2、YOLOv3、YOLOv4、YOLOv5、Y
 - **YOLOv1**：最初版本，提出了YOLO的基本思想。
 - **YOLOv2**：引入了锚框机制，提高了检测精度。
 - **YOLOv3**：采用多尺度预测，进一步提升了检测性能。
+
+  [keras_yolov3：yolov3.weights转换为yolo.h5_控制台 yolov3.weights转换为yolo.h5-CSDN博客](https://blog.csdn.net/qq_37644877/article/details/90764588)
 - **YOLOv4**：在YOLOv3的基础上进行了优化，提升了速度和精度。
 - **YOLOv5**：由Ultralytics团队开发，进一步优化了模型结构和训练策略。
 - **YOLOv6**：由Meituan团队开发，进一步提升了检测速度和精度。
