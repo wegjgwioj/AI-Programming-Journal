@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+         "F:\\SoftWare\\anaconda\\envs\\mytorch\\python.exe"
+    ]
+}
